@@ -2,7 +2,7 @@ import { writable } from 'svelte/store';
 
 export const mapConfig = writable({
   "title": "test",
-  "subtitle": "test",
+  "subtitle": "test is updated",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,4.79,false,,,,,,,,,\nBelgium,BE,1.35,false,,,,,,,,,\nBulgaria,BG,1.42,false,,,,,,,,,\nCyprus,CY,3.69,false,,,,,,,,,\nCzechia,CZ,0.19,false,,,,,,,,,\nGermany,DE,0.96,false,,,,,,,,,\nDenmark,DK,1.84,false,,,,,,,,,\nEstonia,EE,3.88,false,,,,,,,,,\nGreece,EL,5.44,false,,,,,,,,,\nSpain,ES,1.05,false,,,,,,,,,\nFrance,FR,2.66,false,,,,,,,,,\nCroatia,HR,0.64,false,,,,,,,,,\nHungary,HU,1.38,false,,,,,,,,,\nIreland,IE,1,false,,,,,,,,,\nItaly,IT,2.72,false,,,,,,,,,\nLithuania,LT,0.51,false,,,,,,,,,\nLuxembourg,LU,15.43,false,,,,,,,,,\nLatvia,LV,1.96,false,,,,,,,,,\nMalta,MT,1.11,false,,,,,,,,,\nNetherlands,NL,4.99,false,,,,,,,,,\nPoland,PL,2.84,false,,,,,,,,,\nPortugal,PT,3.43,false,,,,,,,,,\nRomania,RO,2.23,false,,,,,,,,,\nSweden,SE,2.26,false,,,,,,,,,\nSlovenia,SI,0.99,false,,,,,,,,,\nSlovakia,SK,0.87,false,,,,,,,,,",
   "parsedData": [
@@ -427,7 +427,7 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "test",
-    "subtitle": "test",
+    "subtitle": "test is updated",
     "textNoteDescription": "Note",
     "textNote": "The values are based on numbers for human trafficking for sexual exploitation, human trafficking for forced labour or services and human trafficking for other purposes (organ removal, forced begging, benefit fraud, criminal activities). No data for Finland.",
     "textSourceDescription": "Source",
