@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "preizkus",
+  "subtitle": "preizkus",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Vrednosti temeljijo na številkah o trgovini z ljudmi za spolno izkoriščanje, trgovini z ljudmi za prisilno delo ali storitve in trgovini z ljudmi za druge namene (odvzem organov, prisilno beračenje, goljufije s prejemki, kriminalne dejavnosti). Za Finsko ni podatkov.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "na sto tisoč prebivalcev",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
