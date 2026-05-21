@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "prüfen",
+  "subtitle": "prüfen",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Werte basieren auf den Zahlen zu Menschenhandel zum Zweck der sexuellen Ausbeutung, Menschenhandel zur Zwangsarbeit oder Zwangsdienstleistung sowie Menschenhandel zu anderen Zwecken (Organentnahme, erzwungenes Betteln, Sozialleistungsbetrug, kriminelle Aktivitäten). Für Finnland liegen keine Daten vor.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "pro hunderttausend Einwohner",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
