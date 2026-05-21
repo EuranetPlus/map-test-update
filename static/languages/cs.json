@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "test",
+  "subtitle": "test",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Hodnoty jsou založeny na číslech obchodování s lidmi za účelem sexuálního vykořisťování, obchodování s lidmi za účelem nucené práce nebo služeb a obchodování s lidmi pro jiné účely (odebírání orgánů, nucené žebrání, podvody s dávkami, trestná činnost). Pro Finsko nejsou k dispozici žádné údaje.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "na sto tisíc obyvatel",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
