@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "pārbaude",
+  "subtitle": "pārbaude",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Vērtības ir balstītas uz skaitļiem par cilvēku tirdzniecību seksuālas izmantošanas nolūkos, cilvēku tirdzniecību piespiedu darba vai pakalpojumu sniegšanas nolūkos un cilvēku tirdzniecību citiem mērķiem (orgānu izņemšana, piespiedu ubagošana, pabalstu krāpšana, noziedzīgas darbības). Par Somiju datu nav.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "uz simts tūkstošiem iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
