@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "test",
+  "subtitle": "test",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Wartości oparte są na statystykach dotyczących handlu ludźmi w celu wykorzystywania seksualnego, handlu ludźmi do pracy przymusowej lub świadczenia usług oraz handlu ludźmi w innych celach (pobieranie organów, zmuszanie do żebractwa, wyłudzanie świadczeń, działalność przestępcza). Brak danych dla Finlandii.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "na sto tysięcy mieszkańców",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
