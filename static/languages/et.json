@@ -2,11 +2,11 @@
   "title": "test",
   "subtitle": "test",
   "textNoteDescription": "Märkus",
-  "textNote": "Väärtused põhinevad seksuaalse ärakasutamise eesmärgil toimuva inimkaubanduse, sunniviisilise töö või teenuste osutamise eesmärgil toimuva inimkaubanduse ja muul eesmärgil toimuva inimkaubanduse (elundite eemaldamine, sunniviisiline kerjamine, toetustega seotud pettus, kuritegevus) arvudel. Soome kohta andmed puuduvad.",
+  "textNote": "Väärtused põhinevad seksuaalse ärakasutamise eesmärgil toimuva inimkaubanduse, sunniviisilise töö või teenuste osutamise eesmärgil toimuva inimkaubanduse ja muul eesmärgil toimuva inimkaubanduse (elundite eemaldamine, sunniviisiline kerjamine, toetustega petmine, kuritegevus) arvudel. Soome kohta andmed puuduvad.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
   "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "saja tuhande elaniku kohta",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "saja tuhande elaniku kohta"
 }

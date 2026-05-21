@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Accesați datele",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "la o sută de mii de locuitori",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "la o sută de mii de locuitori"
 }

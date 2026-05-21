@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
-  "customUnitLabel": "por cada cien mil habitantes",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "por cada cien mil habitantes"
 }

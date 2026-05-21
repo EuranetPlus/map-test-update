@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "pro hunderttausend Einwohner",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "pro hunderttausend Einwohner"
 }

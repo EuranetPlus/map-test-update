@@ -2,11 +2,11 @@
   "title": "test",
   "subtitle": "test",
   "textNoteDescription": "Bilješka",
-  "textNote": "Vrijednosti se temelje na brojkama za trgovinu ljudima radi seksualnog iskorištavanja, trgovinu ljudima radi prisilnog rada ili usluga i trgovinu ljudima u druge svrhe (vađenje organa, prisilno prosjačenje, prijevara s naknadama, kriminalne aktivnosti). Nema podataka za Finsku.",
+  "textNote": "Vrijednosti se temelje na brojkama za trgovinu ljudima u svrhu seksualnog iskorištavanja, trgovinu ljudima u svrhu prisilnog rada ili usluga i trgovinu ljudima u druge svrhe (vađenje organa, prisilno prosjačenje, prijevara s naknadama, kriminalne aktivnosti). Nema podataka za Finsku.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2023.)",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "na sto tisuća stanovnika",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "na sto tisuća stanovnika"
 }

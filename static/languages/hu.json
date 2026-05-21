@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "százezer lakosonként",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "customUnitLabel": "százezer lakosonként"
 }

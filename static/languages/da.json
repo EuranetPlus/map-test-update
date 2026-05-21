@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "per hundrede tusinde indbyggere",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "per hundrede tusinde indbyggere"
 }

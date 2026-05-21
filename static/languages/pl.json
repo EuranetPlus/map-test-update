@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "na sto tysięcy mieszkańców",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "na sto tysięcy mieszkańców"
 }

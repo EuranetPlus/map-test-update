@@ -1,4 +1,5 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "test",
   "subtitle": "test",

@@ -7,6 +7,6 @@
   "textSource": "Евростат (2023 г.)",
   "linkDataAccessDescription": "Достъп до данните",
   "legend1": "Няма налични данни",
-  "customUnitLabel": "на сто хиляди жители",
-  "tooltipExtraInfoLabel": "Кликнете тук"
+  "tooltipExtraInfoLabel": "Кликнете тук",
+  "customUnitLabel": "на сто хиляди жители"
 }

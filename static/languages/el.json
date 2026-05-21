@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Πρόσβαση στα δεδομένα",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
-  "customUnitLabel": "ανά εκατό χιλιάδες κατοίκους",
-  "tooltipExtraInfoLabel": "Κάντε κλικ εδώ"
+  "tooltipExtraInfoLabel": "Κάντε κλικ εδώ",
+  "customUnitLabel": "ανά εκατό χιλιάδες κατοίκους"
 }

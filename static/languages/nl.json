@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "per honderdduizend inwoners",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "per honderdduizend inwoners"
 }

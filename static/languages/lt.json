@@ -7,6 +7,6 @@
   "textSource": "Eurostatas (2023 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "šimtui tūkstančių gyventojų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "šimtui tūkstančių gyventojų"
 }

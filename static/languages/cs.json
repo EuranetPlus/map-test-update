@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Přístup k datům",
   "legend1": "Nejsou k dispozici žádná data",
-  "customUnitLabel": "na sto tisíc obyvatel",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "na sto tisíc obyvatel"
 }

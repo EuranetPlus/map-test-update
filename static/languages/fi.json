@@ -7,6 +7,6 @@
   "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "sataatuhatta asukasta kohden",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "sataatuhatta asukasta kohden"
 }
