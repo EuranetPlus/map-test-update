@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "test",
+  "subtitle": "test",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Ces chiffres sont basés sur les données relatives à la traite des êtres humains à des fins d'exploitation sexuelle, de travail forcé ou de services forcés, et à d'autres fins (prélèvement d'organes, mendicité forcée, fraude aux prestations sociales, activités criminelles). Aucune donnée n'est disponible pour la Finlande.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "pour cent mille habitants",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
