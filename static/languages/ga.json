@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "tástáil",
+  "subtitle": "tástáil",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tá na luachanna bunaithe ar fhigiúirí maidir le gáinneáil ar dhaoine chun críocha dúshaothraithe gnéis, gáinneáil ar dhaoine chun críocha saothair nó seirbhísí éigeantaigh agus gáinneáil ar dhaoine chun críocha eile (orgáin a bhaint, déirceoireacht éigeantach, calaois shochair, gníomhaíochtaí coiriúla). Níl aon sonraí ann don Fhionlainn.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "in aghaidh gach céad míle áitritheoir",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
